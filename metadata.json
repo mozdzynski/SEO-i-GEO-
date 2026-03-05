@@ -1,0 +1,7 @@
+{
+  "name": "AI Apper Audit - Ekspert Marketingu Lokalnego",
+  "description": "Profesjonalne raporty audytowe wizytówek Google Maps oparte na AI dla marki AI Apper Tomasz Możdżyński.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
